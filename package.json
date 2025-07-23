@@ -1,0 +1,24 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/shinymilotic/thoundsand-worlds-desktop#readme",
+  "bugs": {
+    "url": "https://github.com/shinymilotic/thoundsand-worlds-desktop/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinymilotic/thoundsand-worlds-desktop.git"
+  },
+  "license": "MIT",
+  "author": "ShinyMilotic",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "electron": "^37.2.3"
+  }
+}
